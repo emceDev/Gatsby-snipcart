@@ -1,13 +1,13 @@
 ---
-title: Halloween cake
+title: super wyszywany obrusik
 date: 2019-06-19
 id: 3
-price: 2.50
+price: 3
 image: ./image1.jpg
-description: A scary but tasty treat.
+description: super wyszywany obrusik wykonany przez mistrza
 customField: 
     name: Pack Size
-    values: [{name: 'One Cake', priceChange: 0}, {name: 'Pack of 6', priceChange: 9.50}, {name: 'Pack of 12', priceChange: 20.00}]
+    values: [{name: 'obrusik', priceChange: 0}, {name: 'Pack of 6', priceChange: 12.00}, {name: 'Pack of 12', priceChange: 25.00}]
 ---
 
-This is a very scary cake.
+super wyszywany obrusik wykonany przez mistrza

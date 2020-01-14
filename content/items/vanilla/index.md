@@ -1,13 +1,13 @@
 ---
-title: Vanilla buttercream with sprinkles
+title: super wyszywany obrusik
 date: 2019-06-19
 id: 6
-price: 3.50
+price: 3
 image: ./image1.jpg
-description: A delicious vanilla buttercream treat
+description: super wyszywany obrusik wykonany przez mistrza
 customField: 
     name: Pack Size
-    values: [{name: 'One Cake', priceChange: 0}, {name: 'Pack of 6', priceChange: 14.00}, {name: 'Pack of 12', priceChange: 28.50}]
+    values: [{name: 'obrusik', priceChange: 0}, {name: 'Pack of 6', priceChange: 12.00}, {name: 'Pack of 12', priceChange: 25.00}]
 ---
 
-This is a very yummy cake.
+super wyszywany obrusik wykonany przez mistrza
